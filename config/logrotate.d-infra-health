@@ -1,0 +1,8 @@
+/var/log/infra_health.log /var/log/infra_health_cron.log {
+    weekly
+    rotate 4
+    compress
+    missingok
+    notifempty
+    create 0644 root root
+}
