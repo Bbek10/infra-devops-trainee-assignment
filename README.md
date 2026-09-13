@@ -1,3 +1,4 @@
+Built on an Ubuntu 26.04 VM on my own Proxmox server. The README works as a runbook setup, verification commands, restore procedure and teardown — with screenshots for each task. Happy to walk through any of it. 
 
 This is my submission for the TechKraft trainee assignment. I built an Ubuntu
 VM on my home Proxmox server, hardened it, and ran a small web stack on it
