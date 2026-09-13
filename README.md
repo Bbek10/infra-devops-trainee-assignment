@@ -403,3 +403,6 @@ The app container runs as a non-root user, set in the Dockerfile.
 
 
 
+
+### Git branch history
+![git log graph](docs/screenshots/00_git-log.png)
